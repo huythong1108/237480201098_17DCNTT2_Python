@@ -1,2 +1,2 @@
-ten = input('Nhap vao ho ten =')
-print ('Chao ban',ten)
+ten = input('Nhập vào họ tên = ')
+print ('Chào bạn',ten)
