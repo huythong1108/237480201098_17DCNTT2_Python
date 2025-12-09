@@ -4,7 +4,3 @@ for ch in c:
     if ch.isdigit():
         s+=int(ch)
 print("tổng các chữ số: ",s)
-    
-
-
-
